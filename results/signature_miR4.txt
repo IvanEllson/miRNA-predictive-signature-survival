@@ -1,0 +1,5 @@
+"miRNA"	"Coefficient"
+"hsa_mir_509"	0.914
+"hsa_mir_542"	0.759
+"hsa_mir_3667"	-0.837
+"hsa_mir_146a"	-0.856
